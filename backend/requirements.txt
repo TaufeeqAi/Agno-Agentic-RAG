@@ -1,0 +1,9 @@
+agno
+groq
+pypdf
+fastapi
+uvicorn[standard]
+python-dotenv
+sentence-transformers
+pinecone==5.3.1
+pypdf2
